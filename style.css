@@ -1,0 +1,18 @@
+main {
+    width: 100%;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 25%;
+    max-height: 25%;
+    margin: 0 auto;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+a {
+    margin: 0 auto;
+}
